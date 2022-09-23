@@ -1,4 +1,6 @@
-# [Use Gitlab version](https://github.com/copoer/sc-bot-filter)
+# [Main Gitlab version](https://github.com/copoer/sc-bot-filter)
+
+# [Install](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-bot-blocker/)
 
 # Soundcloud Bot Filter Firefox Addon
 
