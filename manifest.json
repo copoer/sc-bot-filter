@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "sc-bot-filter",
   "version": "1.0",
-  "homepage_url": "https://example.com",
+  "homepage_url": "https://github.com/copoer/sc-bot-filter",
   "icons": {
     "48": "icon.png"
   },

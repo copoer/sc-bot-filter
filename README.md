@@ -12,7 +12,7 @@ Listens for GET requests for comments, reposters and likers and filters users wi
 
 ## TODO
 
-Feel free to make a PR to make this compatible for Chrome. Chrome has and incompatable webRequest API so I don't want to deal with it right now.
+Feel free to make a PR to make this compatible for Chrome. Chrome has and incompatible webRequest API so I don't want to deal with it right now.
 
 ## Credit
 
