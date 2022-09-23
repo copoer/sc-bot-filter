@@ -1,3 +1,5 @@
+# [Use Gitlab version](https://github.com/copoer/sc-bot-filter)
+
 # Soundcloud Bot Filter Firefox Addon
 
 An add-on for Firefox that filters adult content bots on Soundcloud.
